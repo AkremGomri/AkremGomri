@@ -2,12 +2,12 @@
 <h3 align="center">A passionate software engineer and AI student</h3>
 </br>
 
-<img alt="coding" width="90%" height="300px" align="center" src="https://user-images.githubusercontent.com/77440987/190916247-351c69bf-2da3-4389-b129-94ae099cde81.png">
+<img alt="AI, human collaboration" width="90%" height="300px" align="center" src="https://media.licdn.com/dms/image/C4D12AQEj1oy03cXJ9Q/article-cover_image-shrink_600_2000/0/1635813607958?e=2147483647&v=beta&t=RxEoXHpGnD_gKBTcUM_XG10WCLHLbQZg3AAY5GMpaH8">
+</br>
 </br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akremgomri" alt="akremgomri" /></a> </p>
 
-<img  align="right" alt="coding" width="400" style="float:right;" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <br />
 
