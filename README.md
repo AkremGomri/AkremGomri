@@ -11,13 +11,13 @@
 
 <br />
 
-- 🔭 I’m currently working on **ElKhatba app**
+- 🔭 I’m currently working on **my artificial intelligence diploma**
 
-- 🌱 I’m currently learning **redux, graphQL, Next.js and nuxt.js**
+- 🌱 I’m currently learning **machine learning and deep learning**
 
 - 🤝 I’m looking for **an end of studies internship**
 
-- 💬 Ask me about **react, nodeJs, express, and react native**
+- 💬 Ask me about **computer vision, generative AI, and NLP**
 
 - 📫 How to reach me **gomriakrem1@gmail.com**
 
