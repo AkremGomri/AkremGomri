@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akrem Gomri</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate software engineer and AI student</h3>
 </br>
 
 <img alt="coding" width="90%" height="300px" align="center" src="https://user-images.githubusercontent.com/77440987/190916247-351c69bf-2da3-4389-b129-94ae099cde81.png">
