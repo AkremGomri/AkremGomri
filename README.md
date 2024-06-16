@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./statics/python.png" alt="python" width="40" height="40"/> </a>
-<a href="https://tensorflow.org/" target="_blank" rel="noreferrer"> <img src="./statics/tensorflow.png" alt="python" width="80" height="40"/> </a>
+<a href="https://tensorflow.org/" target="_blank" rel="noreferrer"> <img src="./statics/tensorflow.png" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="./statics/pytorch.jpg" alt="python" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="./statics/scikit-learn.png" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="./statics/openCV.png" alt="python" width="40" height="40"/> </a>
@@ -42,7 +42,7 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./statics/css3.png" alt="css3" width="40" height="40"/> </a>
  <a href="https://javascript.info/" target="_blank" rel="noreferrer"> <img src="./statics/javascript.png" alt="javascript" width="40" height="40"/> </a> 
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./statics/mongoDB.jpg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./statics/mongoDB.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="./statics/postgreSQL.jpg" alt="mysql" width="40" height="40"/> </a>
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./statics/react.png" alt="reactnative" width="40" height="40"/> </a>
