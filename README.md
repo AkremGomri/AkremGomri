@@ -33,7 +33,7 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="./statics/pytorch.jpg" alt="python" width="60" height="60"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="./statics/scikit-learn.png" alt="scikit_learn" width="80" height="60"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="./statics/openCV.png" alt="python" width="60" height="60"/> </a>
-<a href="https://pillow.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./statics/pillow (1).jpg" alt="python" width="60" height="60"/> </a>
+<a href="https://pillow.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="./statics/pillow (1).jpg" alt="python" width="60" height="80"/> </a>
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./statics/git.png" alt="git" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./statics/linux.jpg" alt="linux" width="60" height="60"/> </a> 
