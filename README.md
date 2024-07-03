@@ -11,11 +11,11 @@
 
 <br />
 
-- 🔭 I’m currently working on **my artificial intelligence diploma**
+- 🏫 I’m currently working on **my artificial intelligence diploma**
 
-- 🌱 I’m currently learning **machine learning and deep learning**
+- 🧠 I’m currently learning **machine learning and deep learning**
 
-- 🤝 I’m looking for **an end of studies internship**
+- ⚒️ I’m currently in **an end of studies internship at TotalEnergies**
 
 - 💬 Ask me about **computer vision, generative AI, and NLP**
 
